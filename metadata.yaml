@@ -1,5 +1,5 @@
 _repo: The-Welding-of-the-Race-449-1066_51253
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   compiler:
     agent_name: Wallis, John Eyre Winstanley
@@ -7,6 +7,9 @@ contributor:
     birthdate: 1886
     gutenberg_agent_id: '46331'
     url: http://www.gutenberg.org/2009/agents/46331
+covers:
+- cover_type: archival
+  image_path: 51253-h/images/cover.jpg
 creator:
   editors:
   - agent_name: Bell, Kenneth (Kenneth Norman)
@@ -24,6 +27,8 @@ creator:
     gutenberg_agent_id: '45567'
     url: http://www.gutenberg.org/2009/agents/45567
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51253#The-Welding-of-the-Race-449-1066
 gutenberg_issued: '2016-02-20'
 gutenberg_type: Text
 identifiers:
